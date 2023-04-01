@@ -12,7 +12,3 @@ for(let i = 0; i < numeros.lenght; i++){
 }
 
 // console.log serve para o programador testar se algo está funcionando, como se fosse uma forma de debugar
-
-// comentário para teste 
-
-// HMMMMMMMM i like ass's lais

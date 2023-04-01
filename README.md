@@ -13,6 +13,3 @@ Para executar o arquivo **app.js** vamos utilizar o Node.js
 ```
 npm app.js
 ```
-```
-Batatinha quando nasce esparrama pelo chão
-```
